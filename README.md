@@ -20,7 +20,7 @@ Languages I use daily or have used in the past:
 Frameworks I have created projects with:
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 ## Tools:
